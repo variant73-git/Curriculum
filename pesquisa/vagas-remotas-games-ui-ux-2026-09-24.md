@@ -36,6 +36,9 @@
 | 15 | **Gazeus Games** | Senior UX/UI Artist, Mobile Games | Mobile | Remoto no Brasil (em anúncios anteriores) | Empresa brasileira | ? | Média | **Alto** | https://gamejobs.co/Senior-UX-UI-Artist-Mobile-Games-at-Gazeus-Games |
 | 16 | **Amber** (tem estúdio em SP) | UI Artist (por projeto) | Mobile | "Trabalho remoto" | Listada no Glassdoor Brasil | ? | Média | **Alto** | https://jobs.jobvite.com/amberstudiocareers/job/omdgufw3 · https://hitmarker.net/jobs/amber-studio-ui-artist-project-based-1466261 |
 | 17 | **Moon Active** (Coin Master) | UI Artist (contractor) | Mobile | "worldwide remote" | Diz "worldwide" | mar/2026, **pode ter fechado** | Média | **Alto**: contrato PJ | https://www.remoterocketship.com/us/company/moonactive/jobs/ui-artist-worldwide-remote/ |
+| 18 | **Series Entertainment (Series AI)** | LATAM UX/UI Designer | Mobile | Remoto, América Latina, full-time | "seeking a talented LATIN AMERICAN UI/UX Designer / Artist… for mobile games" | ? | Alta | **Médio-Alto**: UI 2D, ícones e HUD | https://uiuxjobsboard.com/job/945624-remote-latin-america-ux-ui-designer · https://gamejobs.co/LATAM-UX-UI-Designer-at-Series-AI |
+| 19 | **Gameplay Galaxy** | Lead Game Artist – UI/UX & Concept | Mobile | "100% remote, work wherever they want, forever" | Apareceu na busca de UI remoto no Brasil do Himalayas | ? | Média | **Alto**: nível Lead; pede fluxo com IA | https://himalayas.app/companies/gameplay-galaxy/jobs/lead-game-artist-ui-ux-concept · https://gamejobs.co/Lead-Game-Artist-UI-UX-Concept-at-Gameplay-Galaxy |
+| 20 | **Softgames** (Berlim/Toronto) | UI Game Artist (Unity), fully remote; também tem versão freelance | Mobile/web casual | "fully remote wherever they are" | Não cita o Brasil; o fuso de SP cobre a sobreposição com Toronto | ? | Média | **Alto** | https://jobs.softgames.de/o/ui-game-artist-unity-fully-remote · https://gamejobs.co/UI-Game-Artist-Casual-Games-Freelancing-Fully-Remote-at-Softgames |
 
 ## 2. Também vale olhar: fit médio ou dúvida sobre elegibilidade
 
@@ -57,6 +60,16 @@
 | **Globant Games** | Gaming Tech UI Designer (Senior) | São Paulo (provavelmente híbrido) | Média | Baixo-Médio | https://www.hubmub.com/jobs/869564/gaming-tech-ui-designer |
 | **Miniclip** | Senior UI Artist | Local não informado | Baixa | Alto, se aceitar Brasil | https://www.miniclip.com/careers/vacancies/senior-ui-artist/1651 |
 | **Wildlife Studios** (ex-empregadora) | Visual Designer / UI/UX Game Artist / Lead Designer | São Paulo, híbrido | Alta | Baixo: seria um movimento lateral | https://job-boards.greenhouse.io/wildlifestudios/jobs/8635029002 |
+| **Magic Media** (outsourcing, parecida com a Dardo) | Mid/Senior UI/UX Designer Artist | Remoto, América Latina | Alta (elegibilidade); a vaga é de abr/2025, **provavelmente fechada** | Médio | https://uiuxjobsboard.com/job/1058325-remote-latin-america-mid-senior-ui-ux-designer-artist |
+| **MSI Americas** | 2D Generalist Artist (Remote - Brazil) | "must be based in Brazil… remote" | Alta (elegibilidade); a vaga é de dez/2025 | Médio | https://www.linkedin.com/jobs/view/2d-generalist-artist-at-msi-americas-4327885129 |
+| **Theorycraft Games** (SUPERVIVE) | Senior UI Artist | Remoto; o time está nos EUA | Baixa | Alto em habilidade | https://www.hirebase.org/company/theorycraft-games/jobs/senior-ui-artist |
+| **Frost Giant** | UI Artist | "Irvine HQ or remote full-time" | Baixa | Médio | https://frostgiant.com/ui-artist/ |
+| **Sperasoft** (co-dev AAA) | UI Artist / Technical UI Artist | "remote worldwide" num agregador; base em Belgrado | Baixa | Médio | https://apply.workable.com/sperasoft/j/E5F9200D4E |
+| **Nexters** (Hero Wars) | Lead UI/UX / Senior UX/UI Designer | Escritórios ou "remotely" | Baixa-Média | Médio | https://www.nexters.com/en/about/alljobs/senior-uxui-designer-1746194986/ |
+| **Magic Fuel Games** | UX/UI Designer for Mobile Games | "Fully remote" | Baixa-Média | Médio | https://gamejobs.co/UX-UI-Designer-for-Mobile-Games-Fully-Remote-at-Magic-Fuel-Games |
+| **ARVORE** (SP, VR) | Game UX/UI Designer, banco de talentos | Remoto | Alta | Médio | https://himalayas.app/companies/arvore/jobs/game-ux-ui-designer-talent-pool-8779670174 |
+| **Tapps Games** (SP) | Publica vagas 100% remotas; hoje só tem Tech Artist | 100% remoto | Alta | Acompanhar vagas de arte e marketing | https://remotar.com.br/company/218/tapps-games |
+| **CoolGames** | UI/UX Designer, jogos casuais e puzzle | "also open to remote" | Média-Baixa | Médio-Baixo | https://www.coolgames.com/2026/04/28/ui-ux-designer-casual-games-puzzles-remote-or-on-site-fulltime/ |
 | Indies (TigerRoll, Memory Ware, Razorhead, Half Mermaid, Double Twizzle) | UI Artist | Remoto worldwide ou contrato | Média | Médio | https://www.workwithindies.com/?categories=art-animation |
 
 ## 3. Vagas AAA de UI/visual que não aceitam remoto do Brasil
@@ -77,6 +90,13 @@ Servem como referência ou para candidatura com relocação.
 | NetEase | Lead UI/UX Designer | Remoto só na União Europeia | https://uiuxjobsboard.com/job/765623-lead-ui-ux-designer |
 | Virtuos | Lead / Senior UI/UX Designer | França, Praga ou remoto na Europa | https://remotive.com/remote/jobs/design/lead-ui-ux-designer-3419131 |
 | Sony PlayStation | Senior UI/UX Designer | Provavelmente EUA | https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6011571004 |
+| Second Dinner (Marvel Snap) | Contract Senior UI Artist / UI/UX Designer | Remoto só EUA | — |
+| Escape Velocity | UI Artist (Senior, Lead, Outsource) | América do Norte, Canadá ou Europa | — |
+| Kabam | Lead Marketing Artist / Lead UI Artist | Vancouver ou Montreal | — |
+| Tripledot | Marketing Artist / Senior UI Artist | Escritório (só 20 dias remotos por ano) | — |
+| Aristocrat / Product Madness / Big Fish | UI Artist / 2D | Remoto só EUA; escritórios na Europa e no Canadá | — |
+| Room 8 (vagas fora do teste aberto) | Diversas | Remoto só na Europa | — |
+| Rovio / Nordeus / Socialpoint / Plarium | UI Artist / Marketing | Europa ou Israel | — |
 
 **Padrões por empresa**
 - **Contratam remoto só nos EUA ou na Europa:** Bungie, Activision Blizzard, Scopely, Jam City, Zynga, Playtika, Supercell ("none of our openings are remote") e Sumo Digital.
@@ -97,6 +117,10 @@ Servem como referência ou para candidatura com relocação.
 
 **Palavras-chave para alertas:** "UI Artist" LATAM, "Brazil Remote", "Latin America" + "UI", "Graphic Designer" games Brazil, PJ + games + designer.
 
-## 5. Ficaram de fora por causa do limite de buscas
+## 5. Cobertura
 
-Supercell (só a política remota foi checada), King (só vagas presenciais), Netmarble, Com2uS, Niantic, Pixel United, Mediatonic, Moonton, Dream Games, Rollic, Big Fish, Product Madness, Hoyoverse, Level Infinite, Wargaming, Rockstar, Valve, Bethesda, 2K, Square Enix, Bandai Namco, Sega, Capcom, Behaviour, Saber, Sperasoft.
+**Pesquisadas na segunda rodada sem vaga útil:** Hoyoverse, Level Infinite, Behaviour, Saber, Netflix Games (provavelmente só EUA), Amazon Games, Wargaming, King, Supercell, Niantic, Lilith, FunPlus, Playtika, Azur, MY.GAMES, Easybrain, Metacore, Small Giant, Ten Square, Afterverse, Hoplon, Black River, Mad Mimic.
+
+**Ainda sem busca:** Rockstar, Valve, Bethesda, 2K/Firaxis, Square Enix, Bandai Namco, Sega/Atlus, Capcom, Krafton, Nexon, Pearl Abyss, Smilegate, marketing da Activision, Xbox e PlayStation, Com2uS, Mediatonic, Dream Games, Rollic, Habby, IGG, Garena, SciPlay, Stillfront, Hutch, Space Ape.
+
+**Conclusão:** estúdios AAA quase nunca contratam remoto no Brasil. Os caminhos reais são estúdios de co-desenvolvimento e outsourcing (Gamebreaking, Kokku, Globant, Airship, Magic Media), onde a experiência na Dardo conta muito, e estúdios mobile com time distribuído (Playrix, Series AI, Softgames, Gameplay Galaxy, YallaPlay).

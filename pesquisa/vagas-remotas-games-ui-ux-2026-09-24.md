@@ -1,6 +1,6 @@
 # Vagas remotas de UI / UX / Visual Design em games, aceitando candidatos em São Paulo
 
-**Data da pesquisa:** 24/09/2026. **Perfil:** Senior Visual Designer, hoje na Kazoo Games e antes na Wildlife Studios e em agências (Tribal, SunsetDDB, BSUR). Pontos fortes: marca, UI, ilustração e arte de marketing.
+**Data da pesquisa:** 24/09/2026. **Perfil:** Senior Visual Designer. Última experiência na Dardo Studios (outsourcing de arte para Marvel Snap e World of Warcraft); passou por Fortis Games, Kazoo Games, Wildlife Studios e agências (Tribal, SunsetDDB, BSUR). Pontos fortes: marca, UI, ilustração e arte de marketing.
 
 ## Como a lista foi feita
 
@@ -15,13 +15,15 @@
 
 ## 1. Prioridade máxima: aceita Brasil e tem fit alto
 
+> **Fortis** (linhas 4 e 5) é ex-empregadora. Só vale voltar se a vaga for um passo acima (Lead ou Staff) e a saída tiver sido boa.
+
 | # | Empresa | Vaga | Plataforma | Remoto / local | Evidência de que aceita Brasil | Data | Confiança SP | Fit | Link |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | **Playrix** (Gardenscapes, Homescapes, top-grossing mobile) | Principal UI Artist | Mobile | "remote (available anywhere)" | Time remoto em mais de 50 países | set/2026 | Alta | **Alto** | https://playrix.com/job/open/art/principal-ui-artist · https://hitmarker.net/jobs/playrix-principal-ui-artist-1520911 |
 | 2 | **Playrix** | Lead UI Artist | Mobile | Remoto global | Mesmo modelo remoto global | 2026 | Média-Alta | **Alto** | https://playrix.com/job/open/art/lead-ui-artist |
 | 3 | **Playrix** | Senior UI Artist | Mobile | Remoto global | Mesmo modelo remoto global | 2026 | Média-Alta | **Alto** | https://playrix.com/job/open/art/senior-ui-artist |
-| 4 | **Fortis Games** (financiada pela Tencent, Rumble Club) | Lead Graphic Designer / Illustrator | Mobile | "Remote (Work from Home)" | Já tem funcionários no Brasil e contrata em "US, Canada, Brazil, Spain, UK" | 2026 | Alta | **Alto**: marca, ilustração e marketing em nível Lead | https://himalayas.app/companies/fortis-games/jobs/lead-graphic-designer-ilustrator-1079262713 · https://startup.jobs/lead-graphic-designer-ilustrator-fortis-games-7991325 |
-| 5 | **Fortis Games** | Staff 2D UI Artist | Mobile/PC | Remoto | A empresa contrata no Brasil; esta vaga não cita o país | 2026 | Média | **Alto** | https://gamejobs.co/Staff-2D-UI-Artist-at-Fortis-Games · https://himalayas.app/companies/fortis-games/jobs/staff-2d-ui-artist-5290709535 |
+| 4 | **Fortis Games** (financiada pela Tencent, Rumble Club; **ex-empregadora**) | Lead Graphic Designer / Illustrator | Mobile | "Remote (Work from Home)" | Já tem funcionários no Brasil e contrata em "US, Canada, Brazil, Spain, UK" | 2026 | Alta | **Alto**: marca, ilustração e marketing em nível Lead | https://himalayas.app/companies/fortis-games/jobs/lead-graphic-designer-ilustrator-1079262713 · https://startup.jobs/lead-graphic-designer-ilustrator-fortis-games-7991325 |
+| 5 | **Fortis Games** (**ex-empregadora**) | Staff 2D UI Artist | Mobile/PC | Remoto | A empresa contrata no Brasil; esta vaga não cita o país | 2026 | Média | **Alto** | https://gamejobs.co/Staff-2D-UI-Artist-at-Fortis-Games · https://himalayas.app/companies/fortis-games/jobs/staff-2d-ui-artist-5290709535 |
 | 6 | **Gamebreaking Studios** (co-dev de UI embutido num estúdio AAA; já trabalhou para Riot, Blizzard e Microsoft) | UI Artist (Contract, pode virar efetivo) | PC/console (Unreal, Figma) | "open to candidates living and working in Latin America" | Diz "Latin America" e foi listada como "São Paulo, 4 days ago" | set/2026 | Alta | **Alto**: UI para cliente AAA | https://gamebreaking-studios-inc.breezy.hr/p/fea6283be99f-ui-artist-contract · https://gamejobs.co/UI-Artist-Contract-at-Gamebreaking-Studios |
 | 7 | **Gamebreaking Studios** | Lead / Senior UI Artist (contract-to-hire) | PC/console | "Remote from Brazil, Colombia, Peru, Mexico" | O título da vaga cita o Brasil | Contrato ia até 21/08/2026, **pode ter fechado** | Alta | **Alto** | https://ixdf.org/jobs/canada-latam-lead-senior-ui-artist-gamebreaking-studios-remote-from-brazil-colombia-peru-mexico |
 | 8 | **Kokku** (Recife; co-dev de Horizon, CoD e Warner) | UI/UX, banco de talentos | Console/PC/mobile | Remoto (o banco de talentos da empresa é "permanent, full time, remote") | Empresa brasileira | Sempre aberto | Alta | **Alto**: caminho mais direto para AAA a partir do Brasil | https://kokkugames.factorialhr.com.br/job_posting/ui-ux-talent-pool-239785 |
@@ -44,7 +46,7 @@
 | **Epic Games** | UX Designer | Brasil (a confirmar) | Baixa | Médio | https://gamejobs.co/UX-Designer-at-Epic-Games-4871 |
 | **Riot Games** (**AAA**) | Marketing Creative Director II/III | Escritório de São Paulo | Alta, se ainda estiver aberta (o ID é antigo) | Alto: marketing, marca e agência | https://www.riotgames.com/en/work-with-us/job/3674007/marketing-creative-director-iii-sao-paulo-brazil |
 | **Moon Active** | AI Designer (UI e arte com IA generativa) | "remote global position" | Média-Alta | Médio/Alto: exige ComfyUI e ferramentas de IA generativa | https://gamejobs.co/AI-Designer-at-Moon-Active |
-| **Fortis Games** | Motion Designer (contractor) / Lead Motion Designer | "Brazil Remote" | Alta | Médio | https://www.remoterocketship.com/company/fortisgames/jobs/motion-designer-contractor-brazil-remote/ |
+| **Fortis Games** (ex-empregadora) | Motion Designer (contractor) / Lead Motion Designer | "Brazil Remote" | Alta | Médio | https://www.remoterocketship.com/company/fortisgames/jobs/motion-designer-contractor-brazil-remote/ |
 | **Airship Interactive** (arte externa para AAA) | Freelance UI Artist / Freelance UI/UX Designer | "fully remote", pool global de freelancers | Média | Alto (freelance) | https://careers.airshipinteractive.com/jobs/8216442-freelance-ui-artist · https://careers.airshipinteractive.com/jobs/8009772-freelance-ui-ux-designer |
 | **Gamebreaking Studios** | Lead / Senior UX Designer | Canadá ou América Latina | Alta | Médio: pede UX puro | https://gamejobs.co/Canada-Latin-America-Lead-Senior-UX-Designer-Contract-to-hire-at-Gamebreaking-Studios |
 | **Unknown Worlds** (Krafton, Subnautica 2) | UI Artist / Technical UI Designer | "globally distributed team"; um anúncio diz que o local é EUA | Baixa-Média | Alto na disciplina | https://job-boards.greenhouse.io/unknownworlds/jobs/8169957002 · https://job-boards.greenhouse.io/unknownworlds/jobs/8625252002 |
